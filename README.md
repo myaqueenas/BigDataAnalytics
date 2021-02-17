@@ -1,5 +1,7 @@
 # BigDataAnalytics
 ## USE CASE OF TRAFFIC MANAGEMENT
+#### Youngjin Noh
+
 ### Structured abstract
 Background:
 The development of big data also goes hand in hand with the development of its infrastructure. As enormous amounts of data are being created at high speeds, storing it is also an issue.
